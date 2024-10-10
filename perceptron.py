@@ -18,6 +18,8 @@ df_target_value = df.iloc[0:, df.shape[1] - 1].values
 
 misclassified_value = df.isnull().sum()
 print("Missing values per column:\n", misclassified_value)
+df.info()
+print('df info: ', df.info())
 
 df = pd.DataFrame(df)
 # print the original DataFrame
