@@ -1,1 +1,2 @@
-Perceptron algorithm in plain Python
+**Perceptron algorithm in plain Python
+**
