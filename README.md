@@ -11,3 +11,9 @@ The perceptron is a simple supervised machine learning algorithm and one of the 
 •   [http://pandas.pydata.org/](http://pandas.pydata.org/)
 
 •   [Kaggle](https://www.kaggle.com/) 
+## References
+
+In this project, the following books were used:
+
+•  **Machine Learning** by Tom M. Mitchell
+
